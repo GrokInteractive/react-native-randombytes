@@ -2,6 +2,11 @@
 logs
 *.log
 
+.gradle/
+.settings/
+app/
+.project
+
 # Runtime data
 pids
 *.pid

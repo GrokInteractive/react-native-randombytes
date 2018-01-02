@@ -7,7 +7,7 @@
 //
 
 #import "RNRandomBytes.h"
-#import "RCTBridgeModule.h"
+#import "React/RCTBridgeModule.h"
 #import "RCTBridge.h"
 
 @implementation RNRandomBytes
